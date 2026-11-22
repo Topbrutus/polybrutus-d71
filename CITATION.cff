@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the frozen scientific version."
+title: "Polybrutus 71D: Exact 76-Point Euclidean Metric and Sixty-Fivefold Ideal Graph Mode"
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: 0.1.0
+date-released: 2026-11-21
+repository-code: https://github.com/Topbrutus/polybrutus-d71
+license: MIT
